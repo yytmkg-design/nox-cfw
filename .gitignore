@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+.vercel
+node_modules
+data
+LOCAL-ADMIN.txt
+private-files
+runtime
+dist
