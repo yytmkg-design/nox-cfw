@@ -1,0 +1,1 @@
+{"$schema":"https://openapi.vercel.sh/vercel.json","buildCommand":"node scripts/build.mjs","outputDirectory":"dist","functions":{"api/index.mjs":{"includeFiles":"site-assets/**","maxDuration":60}},"rewrites":[{"source":"/(.*)","destination":"/api/index"}]}
