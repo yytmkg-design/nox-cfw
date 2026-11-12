@@ -1,0 +1,150 @@
+Insults and profanity of any kind are prohibited.
+Do not use offensive language toward members.
+Do not abuse administrators or support staff.
+Threats and intimidation are prohibited.
+Racist content is prohibited.
+Discrimination between members is prohibited.
+Pornographic content is prohibited.
+Malicious links are prohibited.
+Do not post links to other Discord servers.
+Do not advertise competing stores without permission.
+Spam and repetitive messages are prohibited.
+Do not harass members through private messages.
+Do not impersonate administrators.
+Do not impersonate any member.
+Do not disclose members’ personal information.
+Do not leak private conversations without permission.
+Do not exploit technical errors.
+Do not attempt to hack the website or server.
+Do not use fake accounts to evade penalties.
+Do not encourage violations of these rules.
+Respect all members.
+Respect administrative decisions.
+Do not spread false news about NOX.
+Do not damage the store’s reputation with fabricated information.
+Complaints may be submitted respectfully.
+Offensive usernames are prohibited.
+Inappropriate profile images are prohibited.
+Suspicious files are prohibited.
+Do not request members’ login credentials.
+Fraud and attempted account theft are prohibited.
+Do not misuse administrative privileges.
+Do not burden support with fake requests.
+Do not start discussions to provoke trouble.
+Do not make false legal threats.
+Do not publish misleading product information.
+Do not promote scams.
+Do not sell products within the community without permission.
+Do not request administrative roles in exchange for money without an official offer.
+Do not use bots to send spam.
+Do not attempt to disrupt community services.
+Do not evade bans using another account.
+Phishing links are prohibited.
+Do not exploit vulnerabilities in the ticket system.
+Do not use the community to distribute unlawful content.
+Do not insult customers because of their technical problems.
+Do not advertise in channels not designated for advertising.
+Use each channel for its intended purpose.
+Administrators may remove content that violates the rules.
+Administrators may apply escalating penalties or an immediate ban depending on the violation.
+Continued use of the community means compliance with the published rules. Administrators may update them and notify members of changes.
+Read the product description before purchasing.
+Make sure you select the correct product.
+Confirm the price before paying.
+Do not use stolen payment methods.
+Do not use cards without authorization.
+Do not submit forged payment evidence.
+Do not manipulate transfer screenshots.
+Provide proof of payment when requested.
+Proof of payment must be clear.
+Do not send sensitive card details or passwords.
+Payments are reviewed before delivery.
+An order is not fully paid until receipt of the funds is confirmed.
+Do not claim a product you have not paid for.
+Do not reuse an old payment receipt for a new order.
+Do not share download links belonging to another customer.
+Do not resell files without permission.
+Do not leak paid files.
+Do not distribute paid files for free without permission.
+Do not remove ownership notices from files without permission.
+Do not claim the store’s products as your own.
+Check that the files are compatible with your system.
+Review the product’s operating requirements.
+Compatibility with systems not listed in the description is not guaranteed.
+Notify support of any missing file.
+Report corrupted files through a ticket.
+Technical problems are reviewed before a solution is determined.
+Purchasing does not entitle customers to additional free products.
+Installation services are not included unless stated.
+Future updates are not included unless stated.
+Do not share customer accounts to bypass license conditions.
+Do not exploit promotions fraudulently.
+Comply with promotion and discount conditions.
+Discounts cannot be combined unless the offer allows it.
+Do not attempt to deceive the sales team.
+Do not provide false information to obtain compensation.
+Files are delivered using the method specified by the store.
+Keep your order number or proof of purchase.
+Make sure you can access the delivery method.
+Do not publish store files on external websites without permission.
+Use products under their specified license.
+Do not use products for unlawful purposes.
+The store may verify the validity of a purchase.
+Contact support if delivery is delayed.
+The delivery period is 10–24 business hours after payment confirmation.
+If files are not received after the delivery period, the customer may request cancellation or completion of delivery.
+If cancellation of an undelivered order is approved, the amount due is refunded after deducting actual non-refundable payment or transfer fees, where disclosed and legally permitted.
+After receiving the files, cancellation solely because of a change of mind is not accepted, subject to the customer’s legal rights.
+Refunds after digital delivery are not guaranteed, except where law or store policy requires a remedy or refund.
+For a product that does not match its description or a defective file, contact support for repair, replacement, or any refund due.
+Do not open fake tickets.
+Do not open a ticket without a clear reason.
+Do not use insults in tickets.
+Do not abuse the support team.
+Do not threaten staff.
+Do not send unauthorized external links.
+Do not send Discord links in tickets without permission.
+Do not send malicious files.
+Do not send pornographic content.
+Do not advertise in tickets.
+Do not send repetitive messages to harass staff.
+Do not repeatedly mention administrators.
+Do not open multiple tickets for the same problem.
+Do not open a new ticket while an earlier ticket for the same order is being handled.
+Do not provide false information.
+Do not submit forged payment evidence.
+Do not manipulate evidence.
+Do not impersonate another customer.
+Do not attempt to obtain another customer’s files.
+Do not request paid files without paying.
+Explain the problem when opening a ticket.
+Select the correct ticket category.
+Treat staff respectfully.
+Wait for the support team’s response.
+Do not pressure staff with insults or threats.
+Do not repeatedly request a particular staff member without a reason.
+Do not harass staff privately about a ticket.
+Do not share confidential ticket information.
+Do not publish conversation screenshots containing private information without permission.
+Do not delete evidence to mislead support.
+Provide your order number when requested.
+Provide proof of payment when necessary for verification.
+Do not send passwords or verification codes.
+Specify the file or product associated with the problem.
+Describe technical errors clearly.
+Do not open tickets for jokes or mockery.
+Do not use tickets for advertising.
+Do not send untrusted download links.
+Do not exploit tickets to evade the payment system.
+Do not submit fraudulent refund requests.
+Do not bypass support decisions using other accounts.
+Complaints may be escalated to administrators when a dispute arises.
+Support staff must treat customers respectfully.
+Staff must not request confidential banking information.
+Staff must not share customers’ files with others.
+Staff must not close an active ticket without a legitimate reason.
+Administrators may close rule-breaking tickets after explaining the reason, depending on the violation.
+A ticket may be reopened or a follow-up ticket created if the problem remains unresolved.
+Support may close a ticket after five full hours without a response from its owner, measured from the last message requiring their reply.
+Closing a ticket for inactivity does not cancel the order or remove customer rights. Customers may open a new ticket to continue their order, citing the previous order number.
+Before delivery, customers may request cancellation if the stated delivery period of 10–24 business hours is exceeded. The refund is calculated after deducting actual non-refundable payment and transfer fees, where disclosed and legally permitted.

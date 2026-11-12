@@ -1,0 +1,150 @@
+Les insultes et les propos grossiers de toute nature sont interdits.
+N’utilisez pas de propos offensants envers les membres.
+N’insultez pas l’administration ni l’assistance.
+Les menaces et l’intimidation sont interdites.
+Les contenus racistes sont interdits.
+La discrimination entre membres est interdite.
+Les contenus pornographiques sont interdits.
+Les liens malveillants sont interdits.
+Ne publiez pas de liens vers d’autres serveurs Discord.
+Ne faites pas la publicité de boutiques concurrentes sans autorisation.
+Le spam et les messages répétitifs sont interdits.
+Ne harcelez pas les membres en privé.
+N’usurpez pas l’identité de l’administration.
+N’usurpez pas l’identité d’un membre.
+Ne divulguez pas les données personnelles des membres.
+Ne divulguez pas de conversations privées sans autorisation.
+N’exploitez pas les erreurs techniques.
+Ne tentez pas de pirater le site ou le serveur.
+N’utilisez pas de faux comptes pour contourner les sanctions.
+N’incitez pas à enfreindre le règlement.
+Respectez tous les membres.
+Respectez les décisions de l’administration.
+Ne diffusez pas de fausses nouvelles sur NOX.
+Ne nuisez pas à la réputation de la boutique par des informations inventées.
+Les réclamations respectueuses sont autorisées.
+Les pseudonymes offensants sont interdits.
+Les images de profil contraires au règlement sont interdites.
+Les fichiers suspects sont interdits.
+Ne demandez pas les identifiants des membres.
+La fraude et les tentatives de vol de comptes sont interdites.
+N’abusez pas des pouvoirs d’administration.
+Ne dérangez pas l’assistance avec de fausses demandes.
+Ne lancez pas de discussions destinées à provoquer des conflits.
+Ne proférez pas de fausses menaces juridiques.
+Ne publiez pas d’informations trompeuses sur les produits.
+Ne faites pas la promotion d’escroqueries.
+Ne vendez pas de produits dans la communauté sans autorisation.
+Ne demandez pas de rôles administratifs contre de l’argent sans offre officielle.
+N’utilisez pas de bots pour envoyer du spam.
+Ne tentez pas de perturber les services de la communauté.
+Ne contournez pas un bannissement avec un autre compte.
+Les liens d’hameçonnage sont interdits.
+N’exploitez pas les failles du système de tickets.
+N’utilisez pas la communauté pour diffuser des contenus illégaux.
+N’insultez pas les clients en raison de leurs problèmes techniques.
+Ne publiez pas de publicités dans des salons non prévus à cet effet.
+Utilisez chaque salon conformément à sa destination.
+L’administration peut supprimer les contenus contraires au règlement.
+L’administration peut appliquer des sanctions progressives ou un bannissement immédiat selon l’infraction.
+Continuer à utiliser la communauté implique le respect du règlement publié. L’administration peut le modifier et informer les membres des changements.
+Lisez la description du produit avant l’achat.
+Vérifiez que vous choisissez le bon produit.
+Vérifiez le prix avant de payer.
+N’utilisez pas de moyens de paiement volés.
+N’utilisez pas de cartes sans autorisation.
+Ne présentez pas de fausses preuves de paiement.
+Ne modifiez pas les captures de virements.
+Fournissez une preuve de paiement sur demande.
+La preuve de paiement doit être lisible.
+N’envoyez pas de données de carte sensibles ni de mots de passe.
+Les paiements sont vérifiés avant la livraison.
+Une commande n’est considérée comme payée qu’après confirmation de la réception des fonds.
+Ne réclamez pas un produit non payé.
+Ne réutilisez pas un ancien reçu pour une nouvelle commande.
+Ne partagez pas les liens de téléchargement d’un autre client.
+Ne revendez pas les fichiers sans autorisation.
+Ne divulguez pas les fichiers payants.
+Ne distribuez pas gratuitement les fichiers payants sans autorisation.
+Ne retirez pas les mentions de propriété des fichiers sans autorisation.
+Ne vous attribuez pas les produits de la boutique.
+Vérifiez la compatibilité des fichiers avec votre système.
+Vérifiez les conditions techniques du produit.
+La compatibilité avec des systèmes non indiqués dans la description n’est pas garantie.
+Signalez tout fichier manquant à l’assistance.
+Signalez les fichiers endommagés dans un ticket.
+Les problèmes techniques sont examinés avant de déterminer une solution.
+L’achat ne donne pas droit à des produits supplémentaires gratuits.
+L’installation n’est pas comprise sauf indication contraire.
+Les mises à jour futures ne sont pas comprises sauf indication contraire.
+Ne partagez pas les comptes clients pour contourner la licence.
+N’exploitez pas frauduleusement les promotions.
+Respectez les conditions des offres et réductions.
+Les réductions ne sont pas cumulables sauf si l’offre le permet.
+Ne tentez pas de tromper l’équipe commerciale.
+Ne donnez pas de fausses informations pour obtenir une indemnisation.
+Les fichiers sont livrés selon la méthode indiquée par la boutique.
+Conservez le numéro de commande ou la preuve d’achat.
+Vérifiez que vous pouvez accéder au moyen de réception.
+Ne publiez pas les fichiers de la boutique sur des sites externes sans autorisation.
+Utilisez les produits conformément à leur licence.
+N’utilisez pas les produits à des fins illégales.
+La boutique peut vérifier la validité d’un achat.
+Contactez l’assistance en cas de retard de livraison.
+Le délai de livraison est de 10 à 24 heures ouvrées après confirmation du paiement.
+Si les fichiers ne sont pas reçus à l’expiration du délai, le client peut demander l’annulation ou la finalisation de la livraison.
+Si l’annulation d’une commande non livrée est approuvée, le montant dû est remboursé après déduction des frais réels de paiement ou de transfert non remboursables, s’ils ont été annoncés et sont légalement autorisés.
+Après réception des fichiers, l’annulation pour simple changement d’avis n’est pas acceptée, sous réserve des droits légaux du client.
+Le remboursement après livraison numérique n’est pas garanti, sauf si la loi ou la politique de la boutique impose une solution ou un remboursement.
+En cas de produit non conforme à sa description ou de fichier défectueux, contactez l’assistance pour une réparation, un remplacement ou un remboursement dû.
+N’ouvrez pas de faux tickets.
+N’ouvrez pas de ticket sans motif clair.
+N’insultez pas dans les tickets.
+N’insultez pas l’équipe d’assistance.
+Ne menacez pas les responsables.
+N’envoyez pas de liens externes non autorisés.
+N’envoyez pas de liens Discord dans les tickets sans autorisation.
+N’envoyez pas de fichiers malveillants.
+N’envoyez pas de contenus pornographiques.
+Ne faites pas de publicité dans les tickets.
+Ne harcelez pas les responsables avec des messages répétitifs.
+Ne mentionnez pas l’administration de façon répétée.
+N’ouvrez pas plusieurs tickets pour le même problème.
+N’ouvrez pas un nouveau ticket pendant le traitement d’un ticket existant concernant la même commande.
+Ne fournissez pas de fausses informations.
+Ne présentez pas de fausses preuves de paiement.
+Ne manipulez pas les preuves.
+N’usurpez pas l’identité d’un autre client.
+Ne tentez pas d’obtenir les fichiers d’un autre client.
+Ne demandez pas de fichiers payants sans payer.
+Expliquez le problème à l’ouverture du ticket.
+Choisissez la bonne catégorie de ticket.
+Traitez les responsables avec respect.
+Attendez la réponse de l’assistance.
+Ne faites pas pression sur les responsables par des insultes ou des menaces.
+Ne réclamez pas un responsable précis de façon répétée sans motif.
+Ne harcelez pas les responsables en privé au sujet d’un ticket.
+Ne partagez pas les informations confidentielles du ticket.
+Ne publiez pas de captures contenant des données privées sans autorisation.
+Ne supprimez pas de preuves pour tromper l’assistance.
+Fournissez le numéro de commande sur demande.
+Fournissez une preuve de paiement si elle est nécessaire à la vérification.
+N’envoyez pas de mots de passe ni de codes de vérification.
+Précisez le fichier ou le produit concerné.
+Décrivez clairement l’erreur technique.
+N’ouvrez pas de tickets pour plaisanter ou vous moquer.
+N’utilisez pas les tickets pour faire de la publicité.
+N’envoyez pas de liens de téléchargement non fiables.
+N’exploitez pas les tickets pour contourner le paiement.
+Ne faites pas de demandes de remboursement frauduleuses.
+Ne contournez pas les décisions de l’assistance avec d’autres comptes.
+En cas de désaccord, la réclamation peut être transmise à l’administration.
+L’assistance doit traiter les clients avec respect.
+Les responsables ne doivent pas demander d’informations bancaires confidentielles.
+Les responsables ne doivent pas partager les fichiers des clients avec des tiers.
+Les responsables ne doivent pas fermer un ticket actif sans motif légitime.
+L’administration peut fermer les tickets contraires au règlement après avoir expliqué le motif, selon l’infraction.
+Un ticket peut être rouvert ou un ticket de suivi créé si le problème persiste.
+L’assistance peut fermer un ticket après cinq heures complètes sans réponse de son auteur, à compter du dernier message nécessitant sa réponse.
+La fermeture pour absence de réponse n’annule pas la commande et ne supprime pas les droits du client. Le client peut ouvrir un nouveau ticket en indiquant le numéro de commande précédent.
+Avant la livraison, le client peut demander l’annulation si le délai annoncé de 10 à 24 heures ouvrées est dépassé. Le remboursement est calculé après déduction des frais réels de paiement et de transfert non remboursables, lorsqu’ils ont été annoncés et sont légalement autorisés.

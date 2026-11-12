@@ -1,0 +1,150 @@
+Her türlü hakaret ve küfür yasaktır.
+Üyelere karşı aşağılayıcı ifadeler kullanmayın.
+Yönetime veya destek ekibine hakaret etmeyin.
+Tehdit ve yıldırma yasaktır.
+Irkçı içerik yasaktır.
+Üyeler arasında ayrımcılık yasaktır.
+Pornografik içerik yasaktır.
+Zararlı bağlantılar yasaktır.
+Başka Discord sunucularının bağlantılarını paylaşmayın.
+İzinsiz rakip mağaza reklamı yapmayın.
+Spam ve tekrarlanan mesajlar yasaktır.
+Üyeleri özel mesajlarla rahatsız etmeyin.
+Yönetimin kimliğine bürünmeyin.
+Başka bir üyenin kimliğine bürünmeyin.
+Üyelerin kişisel bilgilerini paylaşmayın.
+Özel konuşmaları izinsiz ifşa etmeyin.
+Teknik hataları kötüye kullanmayın.
+Siteyi veya sunucuyu ele geçirmeye çalışmayın.
+Cezalardan kaçmak için sahte hesap kullanmayın.
+Kural ihlaline teşvik etmeyin.
+Tüm üyelere saygı gösterin.
+Yönetimin kararlarına saygı gösterin.
+NOX hakkında yalan haber yaymayın.
+Uydurma bilgilerle mağazanın itibarını zedelemeyin.
+Şikâyetler saygılı bir şekilde iletilebilir.
+Hakaret içeren kullanıcı adları yasaktır.
+Kurallara aykırı profil görselleri yasaktır.
+Şüpheli dosyalar yasaktır.
+Üyelerin giriş bilgilerini istemeyin.
+Dolandırıcılık ve hesap çalma girişimleri yasaktır.
+Yönetim yetkilerini kötüye kullanmayın.
+Sahte taleplerle desteği meşgul etmeyin.
+Sorun çıkarmak amacıyla tartışma başlatmayın.
+Asılsız hukuki tehditlerde bulunmayın.
+Ürünler hakkında yanıltıcı bilgi paylaşmayın.
+Dolandırıcılığı teşvik etmeyin.
+Topluluk içinde izinsiz ürün satmayın.
+Resmî teklif olmadan para karşılığında yönetici rolü istemeyin.
+Spam göndermek için bot kullanmayın.
+Topluluk hizmetlerini aksatmaya çalışmayın.
+Başka hesapla yasağı aşmayın.
+Kimlik avı bağlantıları yasaktır.
+Bilet sisteminin açıklarını kötüye kullanmayın.
+Topluluğu yasa dışı içerik yaymak için kullanmayın.
+Teknik sorunları nedeniyle müşterileri aşağılamayın.
+Reklam için ayrılmamış kanallarda reklam yapmayın.
+Her kanalı amacına uygun kullanın.
+Yönetim, kurallara aykırı içeriği kaldırabilir.
+Yönetim, ihlale göre kademeli ceza veya doğrudan yasak uygulayabilir.
+Topluluğu kullanmaya devam etmek yayımlanan kurallara uymayı gerektirir. Yönetim kuralları güncelleyebilir ve üyeleri değişikliklerden haberdar edebilir.
+Satın almadan önce ürün açıklamasını okuyun.
+Doğru ürünü seçtiğinizden emin olun.
+Ödeme öncesinde fiyatı kontrol edin.
+Çalıntı ödeme yöntemleri kullanmayın.
+Yetkisiz kart kullanmayın.
+Sahte ödeme kanıtı sunmayın.
+Transfer ekran görüntülerini değiştirmeyin.
+İstendiğinde ödeme kanıtı sağlayın.
+Ödeme kanıtı açık ve okunabilir olmalıdır.
+Hassas kart bilgilerini veya şifreleri göndermeyin.
+Ödemeler teslimattan önce incelenir.
+Tutarın ulaştığı doğrulanmadan sipariş ödenmiş sayılmaz.
+Ödemediğiniz ürünü talep etmeyin.
+Eski ödeme makbuzunu yeni siparişte kullanmayın.
+Başka müşteriye ait indirme bağlantılarını paylaşmayın.
+Dosyaları izinsiz yeniden satmayın.
+Ücretli dosyaları sızdırmayın.
+Ücretli dosyaları izinsiz ücretsiz dağıtmayın.
+Dosyalardaki mülkiyet bildirimlerini izinsiz kaldırmayın.
+Mağazanın ürünlerini kendinize aitmiş gibi göstermeyin.
+Dosyaların sisteminizle uyumunu kontrol edin.
+Ürünün çalışma gereksinimlerini inceleyin.
+Açıklamada belirtilmeyen sistemlerle uyumluluk garanti edilmez.
+Eksik dosyaları desteğe bildirin.
+Bozuk dosyaları bilet üzerinden bildirin.
+Çözüm belirlenmeden önce teknik sorunlar incelenir.
+Satın alma, ek ücretsiz ürün hakkı vermez.
+Belirtilmedikçe kurulum hizmeti satın almaya dâhil değildir.
+Belirtilmedikçe gelecekteki güncellemeler satın almaya dâhil değildir.
+Lisans koşullarını aşmak için müşteri hesabını paylaşmayın.
+Kampanyaları hileli şekilde kullanmayın.
+Teklif ve indirim koşullarına uyun.
+Teklif izin vermedikçe indirimler birleştirilemez.
+Satış ekibini kandırmaya çalışmayın.
+Tazminat almak için yanlış bilgi vermeyin.
+Dosyalar mağazanın belirttiği yöntemle teslim edilir.
+Sipariş numarasını veya satın alma kanıtını saklayın.
+Teslim alma yöntemine erişebildiğinizden emin olun.
+Mağaza dosyalarını izinsiz dış sitelerde yayımlamayın.
+Ürünleri belirtilen lisansa uygun kullanın.
+Ürünleri yasa dışı amaçlarla kullanmayın.
+Mağaza satın almanın geçerliliğini doğrulayabilir.
+Teslimat gecikirse destekle iletişime geçin.
+Teslimat süresi ödeme onayından sonra 10–24 iş saatidir.
+Teslimat süresi sonunda dosyalar alınmazsa müşteri iptal veya teslimatın tamamlanmasını isteyebilir.
+Teslim edilmemiş siparişin iptali onaylanırsa, önceden açıklanmış ve yasal olarak izin verilmiş olması koşuluyla, gerçek ve iade edilemeyen ödeme veya transfer ücretleri düşülerek hak edilen tutar iade edilir.
+Dosyalar alındıktan sonra yalnızca fikir değişikliği nedeniyle iptal kabul edilmez; müşterinin yasal hakları saklıdır.
+Dijital teslimattan sonra iade garanti edilmez; kanun veya mağaza politikası çözüm ya da iade gerektiriyorsa istisna uygulanır.
+Ürün açıklamaya uymuyorsa veya dosya kusurluysa onarım, değiştirme veya hak edilen iade için desteğe başvurun.
+Sahte bilet açmayın.
+Açık bir neden olmadan bilet açmayın.
+Biletlerde küfür etmeyin.
+Destek ekibine hakaret etmeyin.
+Yetkilileri tehdit etmeyin.
+Yetkisiz dış bağlantılar göndermeyin.
+Biletlerde izinsiz Discord bağlantısı göndermeyin.
+Zararlı dosya göndermeyin.
+Pornografik içerik göndermeyin.
+Biletlerde reklam yapmayın.
+Yetkilileri rahatsız etmek için tekrarlanan mesajlar göndermeyin.
+Yönetimi sürekli etiketlemeyin.
+Aynı sorun için birden fazla bilet açmayın.
+Aynı siparişin önceki bileti işlenirken yeni bilet açmayın.
+Yanlış bilgi vermeyin.
+Sahte ödeme kanıtı sunmayın.
+Kanıtları değiştirmeyin.
+Başka müşterinin kimliğine bürünmeyin.
+Başka müşterinin dosyalarını almaya çalışmayın.
+Ücretini ödemeden ücretli dosya istemeyin.
+Bilet açarken sorunu açıklayın.
+Doğru bilet kategorisini seçin.
+Yetkiliye saygılı davranın.
+Destek ekibinin yanıtını bekleyin.
+Hakaret veya tehditle yetkiliyi acele ettirmeyin.
+Nedensiz yere sürekli belirli bir yetkiliyi istemeyin.
+Bilet hakkında yetkilileri özelden rahatsız etmeyin.
+Biletin gizli bilgilerini paylaşmayın.
+Özel bilgiler içeren konuşma görüntülerini izinsiz yayımlamayın.
+Desteği yanıltmak için kanıtları silmeyin.
+İstendiğinde sipariş numarasını gönderin.
+Doğrulama için gerekliyse ödeme kanıtını gönderin.
+Şifre veya doğrulama kodu göndermeyin.
+Sorunla ilgili dosyayı veya ürünü belirtin.
+Teknik hatayı açıkça tarif edin.
+Şaka veya alay amacıyla bilet açmayın.
+Biletleri reklam için kullanmayın.
+Güvenilir olmayan indirme bağlantıları göndermeyin.
+Ödeme sistemini aşmak için biletleri kötüye kullanmayın.
+Hileli iade talebi göndermeyin.
+Başka hesaplarla destek kararlarını aşmaya çalışmayın.
+Uyuşmazlık durumunda şikâyet yönetime iletilebilir.
+Destek ekibi müşterilere saygılı davranmalıdır.
+Yetkililer gizli banka bilgilerini istememelidir.
+Yetkililer müşterilerin dosyalarını başkalarıyla paylaşmamalıdır.
+Yetkililer geçerli neden olmadan aktif bileti kapatmamalıdır.
+Yönetim, ihlalin türüne göre nedenini açıklayarak kurallara aykırı biletleri kapatabilir.
+Sorun çözülmediyse bilet yeniden açılabilir veya takip bileti oluşturulabilir.
+Destek, bilet sahibinin yanıtını gerektiren son mesajdan itibaren beş tam saat yanıt gelmezse bileti kapatabilir.
+Yanıt verilmediği için biletin kapanması siparişi iptal etmez veya müşteri haklarını ortadan kaldırmaz. Müşteri önceki sipariş numarasını belirterek yeni bilet açabilir.
+Teslimattan önce, açıklanan 10–24 iş saati aşılırsa müşteri iptal isteyebilir. İade tutarı, önceden açıklanmış ve yasal olarak izin verilmiş olması koşuluyla gerçek ve iade edilemeyen ödeme ve transfer ücretleri düşülerek hesaplanır.
